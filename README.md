@@ -1,0 +1,2 @@
+# blog
+Obsidian Blog
